@@ -2,9 +2,11 @@
 
 The "Find My District Map" web page helps users locate their council district based on their address. It uses Leaflet.js to display an interactive map, jQuery for handling user input and API calls, and Turf.js for geospatial analysis.
 
-#### Demo
+#### Find My District Demo 
 !['district-map'](find-my-district.gif)
 
+#### Ideas Map Demo (another project)
+*Note: This project is currently under development and utilizes a Leaflet map. Due to confidentiality, the code cannot be shared. I use Django and React*
 #### HTML Structure
 - **Head Section**: 
   - Includes necessary meta tags, stylesheet links (Leaflet and Bootstrap), and script links (Leaflet, jQuery, and Turf.js).
