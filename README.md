@@ -6,6 +6,7 @@ The "Find My District Map" web page helps users locate their council district ba
 !['district-map'](find-my-district.gif)
 
 #### Ideas Map Demo (another project)
+!['ideas-map'](ideas-map.gif)
 *Note: This project is currently under development and utilizes a Leaflet map. Due to confidentiality, the code cannot be shared. I use Django and React*
 #### HTML Structure
 - **Head Section**: 
